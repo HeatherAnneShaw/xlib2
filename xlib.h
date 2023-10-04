@@ -8,6 +8,8 @@
 #ifndef GOXLIB_H
 #define GOXLIB_H
 
+#include <X11/Xlib.h>
+
 extern void xlib_xevent_type ( const XEvent *const xevent, int *const xevent_type_return );
 extern void xlib_xkeyevent_values ( const XEvent *const xevent,
                                      unsigned long *const serial_return,
