@@ -1,3 +1,3 @@
-module github.com/aaronryool/xlib2
+module github.com/HeatherAnneShaw/xlib2
 
 go 1.13
