@@ -10,6 +10,7 @@ The original Xlib Binding is published at <https://github.com/vbsw/xlib>.
 
 ## Copyright
 Copyright 2023 Heather Anne Shaw (HeatherShaw821@gmail.com)
+
 Copyright 2016 Vitali Baumtrok (vbsw@mailbox.org)
 
 Xlib2 Binding is distributed under the terms of the Boost Software License, version 1.0.
