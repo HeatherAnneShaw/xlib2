@@ -1,4 +1,5 @@
 
+//         Copyright 2023 Heather Anne Shaw
 //          Copyright 2016 Vitali Baumtrok
 // Distributed under the Boost Software License, Version 1.0.
 //      (See accompanying file LICENSE or copy at
@@ -6,7 +7,7 @@
 
 
 // Binding of Xlib (version 11, release 6.7).
-package xlib
+package xlib2
 
 
 // #cgo LDFLAGS: -lX11

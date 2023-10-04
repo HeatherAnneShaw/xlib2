@@ -1,19 +1,21 @@
-# Xlib Binding
+# Xlib2 Binding
 
 [![GoDoc](https://godoc.org/github.com/vbsw/xlib?status.svg)](https://godoc.org/github.com/vbsw/xlib)
 
 ## About
-Xlib Binding is a binding of Xlib (version 11, release 6.7) for the programming language Go.
+Xlib2 is a binding of Xlib (version 11, release 6.7) for the programming language Go. This project has been forked from the incoomplete Xlib binding for Go due to a complete
+void of functionality needed to develop a window manager project I am also working on.
 
-Xlib Binding is published at <https://github.com/vbsw/xlib>.
+The original Xlib Binding is published at <https://github.com/vbsw/xlib>.
 
 ## Copyright
+Copyright 2023 Heather Anne Shaw (HeatherShaw821@gmail.com)
 Copyright 2016 Vitali Baumtrok (vbsw@mailbox.org)
 
-Xlib Binding is distributed under the terms of the Boost Software License, version 1.0.
+Xlib2 Binding is distributed under the terms of the Boost Software License, version 1.0.
 (See accompanying file LICENSE or copy at <http://www.boost.org/LICENSE_1_0.txt>)
 
-Xlib Binding is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the Boost Software License for more details.
+Xlib2 Binding is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the Boost Software License for more details.
 
 ## References
 
