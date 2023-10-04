@@ -3,7 +3,7 @@
 [![GoDoc](https://godoc.org/github.com/vbsw/xlib?status.svg)](https://godoc.org/github.com/vbsw/xlib)
 
 ## About
-Xlib2 is a binding of Xlib (version 11, release 6.7) for the programming language Go. This project has been forked from the incoomplete Xlib binding for Go due to a complete
+Xlib2 is a binding of Xlib (version 11, release 7) for the programming language Go. This project has been forked from the incoomplete Xlib binding for Go due to a complete
 void of functionality needed to develop a window manager project I am also working on.
 
 The original Xlib Binding is published at <https://github.com/vbsw/xlib>.
