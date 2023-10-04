@@ -114,3 +114,6 @@ func (this *tEventType) Type ( ) int {
 	return this.typeCode
 }
 
+
+//// Heather's new code starts here ////
+

@@ -129,3 +129,5 @@ func XSelectInput ( display *Display, window Window, eventMask int64) {
 	C.XSelectInput ( displayC, windowC, eventMaskC )
 }
 
+//// Heather's new code starts here ////
+
