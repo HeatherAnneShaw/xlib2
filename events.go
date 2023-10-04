@@ -110,8 +110,8 @@ func newXKeyEvent ( xeventC *C.XEvent, xeventTypeC C.int ) *XKeyEvent {
 	return xKeyEvent
 }
 
-func (this *tEventType) Type ( ) int {
-	return this.typeCode
+func (eventType *tEventType) Type ( ) int {
+	return eventType.typeCode
 }
 
 
